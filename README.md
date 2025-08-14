@@ -21,4 +21,4 @@ Starting from **July 28, 2025**, this repository will be regularly updated with:
 - Latest project implementations
 - Code improvements and optimizations
 
-⭐ **Don't forget to follow [@PSCodersHub](https://github.com/PSCodersHub) for regular AI content updates!**
+⭐ **Don't forget to follow [@PSCodersHub](https://pscodershub.netlify.app) for regular AI content updates!**
